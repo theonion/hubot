@@ -3,5 +3,6 @@
   "hubot-help",
   "hubot-google-images",
   "hubot-redis-brain",
+  "hubot-standup-alarm",
   "hubot-youtube"
 ]
