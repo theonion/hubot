@@ -1,7 +1,9 @@
 [
   "hubot-diagnostics",
+  "hubot-drudgesiren",
   "hubot-help",
   "hubot-google-images",
+  "hubot-rapture",
   "hubot-redis-brain",
   "hubot-standup-alarm",
   "hubot-youtube"
