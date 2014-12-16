@@ -8,6 +8,7 @@
     "htmlparser": "^1.7.7",
     "hubot": "^2.10.0",
     "hubot-diagnostics": "0.0.1",
+    "hubot-drudgesiren": "~0.0.2",
     "hubot-google-images": "^0.1.1",
     "hubot-help": "^0.1.1",
     "hubot-rapture": "~0.0.4",
